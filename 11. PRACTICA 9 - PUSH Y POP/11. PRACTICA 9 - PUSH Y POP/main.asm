@@ -2,6 +2,8 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; PRACTICA: 11. PRACTICA 9 - PUSH Y POP
+; Descripcion: Practica la cuan se realizo el funcionamiento de una pila el ingreso retiro y copia de una pila
 
 INCLUDE Irvine32.inc
 
