@@ -2,6 +2,8 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Practica: 13. PRACTICA 11 - OPERACIONES LOGICAS
+; Descripcion: Se miro lo que son los operadores logicos como el OR, XOR, AND y TEST y el funcionamiento de sus marcaras
 
 INCLUDE Irvine32.inc
 
