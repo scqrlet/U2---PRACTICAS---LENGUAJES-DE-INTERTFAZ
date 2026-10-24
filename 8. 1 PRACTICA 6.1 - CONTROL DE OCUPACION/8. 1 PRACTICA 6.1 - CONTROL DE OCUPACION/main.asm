@@ -2,6 +2,8 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Practica: 8. 1 PRACTICA 6.1 - CONTROL DE OCUPACION
+; Descripcion: En esta practica simulamos el funcionamiento de un estacionamiento y los diferentes estados
 
 INCLUDE Irvine32.inc
 
