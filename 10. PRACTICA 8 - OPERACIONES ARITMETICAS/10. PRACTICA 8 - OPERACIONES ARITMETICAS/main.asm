@@ -2,6 +2,7 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Descripcion: En este proyecto se realizo utilizando operadores que son suma,Resta,Muntiplicacion Y Division
 
 INCLUDE Irvine32.inc
 
