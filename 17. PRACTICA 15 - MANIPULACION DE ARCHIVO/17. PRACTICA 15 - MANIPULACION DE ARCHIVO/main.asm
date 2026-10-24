@@ -2,6 +2,8 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Practica: 17. PRACTICA 15 - MANIPULACION DE ARCHIVO
+; Descripcion: Vimos como es la creacion de un archivo el modificarla borrarla y cerrarla
 
 INCLUDE Irvine32.inc
 
