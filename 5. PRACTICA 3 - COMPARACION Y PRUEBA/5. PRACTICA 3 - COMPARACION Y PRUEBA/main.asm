@@ -2,6 +2,8 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Practica: 5. PRACTICA 3 - COMPARACION Y PRUEBA
+; Descripcion: Se mira la utlizacion del cmp y como se utiliza
 
 INCLUDE Irvine32.inc
 
