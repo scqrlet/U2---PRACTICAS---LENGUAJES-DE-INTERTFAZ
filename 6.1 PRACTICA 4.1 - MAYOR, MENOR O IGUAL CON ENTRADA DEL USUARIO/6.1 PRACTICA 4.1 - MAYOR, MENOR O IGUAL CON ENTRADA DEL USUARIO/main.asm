@@ -2,6 +2,9 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Practica: 6.1 PRACTICA 4.1 - MAYOR, MENOR O IGUAL CON ENTRADA DEL USUARIO
+; Descripcion: En esta practica miramos el funcionamiento de diferentes condiciones como
+; si un numero es mayor igual o menor a otro
 
 INCLUDE Irvine32.inc
 
