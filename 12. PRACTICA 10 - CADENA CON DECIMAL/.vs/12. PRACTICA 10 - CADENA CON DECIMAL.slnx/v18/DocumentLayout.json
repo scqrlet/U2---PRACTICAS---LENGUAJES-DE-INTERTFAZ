@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeny\\source\\repos\\12. PRACTICA 10 - CADENA CON DECIMAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E53A49-5FCA-41A4-AB1B-0055DE3091F5}|12. PRACTICA 10 - CADENA CON DECIMAL\\12. PRACTICA 10 - CADENA CON DECIMAL.vcxproj|C:\\Users\\jeny\\source\\repos\\12. PRACTICA 10 - CADENA CON DECIMAL\\12. PRACTICA 10 - CADENA CON DECIMAL\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{85E53A49-5FCA-41A4-AB1B-0055DE3091F5}|12. PRACTICA 10 - CADENA CON DECIMAL\\12. PRACTICA 10 - CADENA CON DECIMAL.vcxproj|solutionrelative:12. PRACTICA 10 - CADENA CON DECIMAL\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\jeny\\source\\repos\\12. PRACTICA 10 - CADENA CON DECIMAL\\12. PRACTICA 10 - CADENA CON DECIMAL\\main.asm",
+              "RelativeDocumentMoniker": "12. PRACTICA 10 - CADENA CON DECIMAL\\main.asm",
+              "ToolTip": "C:\\Users\\jeny\\source\\repos\\12. PRACTICA 10 - CADENA CON DECIMAL\\12. PRACTICA 10 - CADENA CON DECIMAL\\main.asm",
+              "RelativeToolTip": "12. PRACTICA 10 - CADENA CON DECIMAL\\main.asm",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwEUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-21T04:40:24.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
