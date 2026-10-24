@@ -2,6 +2,9 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Practica: 8. PRACTICA 6 - DECREMENTO E INCREMENTO
+; Descripcion: En esta practica miramos el funcionamiento de INC y DEC
+; para incrementar o decrementar valores de 1 en 1
 
 INCLUDE Irvine32.inc
 
