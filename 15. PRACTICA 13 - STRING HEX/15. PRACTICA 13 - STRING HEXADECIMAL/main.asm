@@ -2,6 +2,8 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Practica: 15. PRACTICA 13 - STRING HEXADECIMAL
+; Descripcion: Se mira como pasar un valor hexadecimal a una cadena de texto
 
 INCLUDE Irvine32.inc
 
