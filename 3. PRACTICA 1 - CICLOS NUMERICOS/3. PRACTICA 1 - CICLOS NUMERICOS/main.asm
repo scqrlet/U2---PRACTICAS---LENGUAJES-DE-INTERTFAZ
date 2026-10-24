@@ -2,6 +2,8 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Practica: 3. PRACTICA 1 - CICLOS NUMERICOS
+; Descripcion: Aqui miramos como funcionan los ciclos con loop
 
 INCLUDE Irvine32.inc
 
