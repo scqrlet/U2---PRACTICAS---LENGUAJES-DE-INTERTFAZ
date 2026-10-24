@@ -2,7 +2,8 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
-
+; Practica: 2. HOLA MUNDO CON IRVINE32
+; Descripcion: En este programa se mira el funcionamiento del hola mundo con la libreria IRVINE32
 INCLUDE Irvine32.inc
 
 .data
