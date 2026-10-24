@@ -2,6 +2,9 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Practica: 9. PRACTICA 7 - VALIDACION DE FORMATO
+; Descripcion: En esta pracica miramos la validacion y comprobacion al momento de ingresar una cadena
+; Utilizando un formato especifico
 
 INCLUDE Irvine32.inc
 
