@@ -2,6 +2,9 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Practica: 4. PRACTICA 2 - CAPTURA Y DESPLEGADO DE MENSAJE
+; Descripcion: En esta practica miramos como ingresar valores en una consola
+; y que es necesario para ingresarlos e imprimirlos
 
 INCLUDE Irvine32.inc
 
