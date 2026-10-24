@@ -2,6 +2,9 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Practica: 7. PRACTICA 5 - CONDICIONALES
+; Descripcion: En esta practica miramos lo que es el While utiizando condiciones
+; y el doWhile
 
 INCLUDE Irvine32.inc
 
