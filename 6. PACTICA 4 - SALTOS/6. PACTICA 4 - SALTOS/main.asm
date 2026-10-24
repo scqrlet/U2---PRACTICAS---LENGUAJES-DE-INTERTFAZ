@@ -2,6 +2,8 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Practica: 6. PACTICA 4 - SALTOS
+; Descripcion: En esta practica miramos lo que son los saltos incondcionales
 
 INCLUDE Irvine32.inc
 
