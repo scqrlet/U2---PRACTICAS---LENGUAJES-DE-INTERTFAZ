@@ -2,6 +2,8 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Practica: 12. PRACTICA 10 - CADENA CON DECIMAL
+; Descripcion: En esta practica se miro como hacer la simulacion de un sistema de descargas
 
 INCLUDE Irvine32.inc
 
