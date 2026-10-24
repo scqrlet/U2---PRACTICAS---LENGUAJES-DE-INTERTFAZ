@@ -1,3 +1,9 @@
+; Materia: Lenguajes de Interfaz
+; Nombre: Lugo Martinez Jennifer Scarlet
+; Horario: 10:00-11:00 AM 
+; Docente: Dr. José Luis Medina Jiménez
+
+
 .386 ; Esta directiva le permite a ensamblador reconocer que se va a trabajar con arquitectura intel 80386
 	 ; y conozca las palabras reservadas de cada una de los registros
 
