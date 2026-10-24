@@ -2,6 +2,8 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Practica: 14. PRACTICA 12 - DESPLAZAMIENTO Y ROTACION
+; Descripcion: Aqui vemos lo que son las rotaciones y desplazamientos
 
 INCLUDE Irvine32.inc
 
