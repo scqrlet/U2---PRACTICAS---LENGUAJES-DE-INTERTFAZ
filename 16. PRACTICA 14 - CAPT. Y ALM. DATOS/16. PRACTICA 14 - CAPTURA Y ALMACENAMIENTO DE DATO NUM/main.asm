@@ -2,6 +2,9 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
+; Practica: 16. PRACTICA 14 - CAPTURA Y ALMACENAMIENTO DE DATO NUM
+; Descripcion: En esta practica lo que se hizo fue ingresar un digito entre el 1 y 99
+; Y sumarlo y el resultado guardarlo en una variable
 
 INCLUDE Irvine32.inc
 
